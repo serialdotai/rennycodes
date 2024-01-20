@@ -1,6 +1,6 @@
 ### **Hey, I'm Renny** 👋🏽  
 
-I'm a data scientist based in Africa and I'm passionate building stuff and creating AI magic
+I'm a data scientist based in Africa and I'm passionate about building stuff and creating AI magic
 
 + I'm passionate about coding, with a special love for Python.
 + Fascinated by machines since childhood, driving my interest in technology and programming.
