@@ -20,3 +20,13 @@ I'm a data scientist based in Africa and I'm passionate building stuff and creat
 **Databases:** `SQL`
 
 **Geospatial Technologies:** `GIS` `QGIS` `ArcMap`
+
+**Others:** `Git` `HTML` `Django` `Flask`
+
+## ✨Fun Facts
++ Bleach is my favourite anime.
++ I love maths.
++ I believe I can fly.
+
+## 📫Contact
+For a quick response, DM me on [Instagram](http://www.instagram.com/rennycodes) or [X](http:..www.twitter.com/rennycodes).
