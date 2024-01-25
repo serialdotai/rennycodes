@@ -19,7 +19,7 @@ I'm a data scientist based in Africa and I'm passionate about building stuff and
 
 **Databases:** `SQL`
 
-**Geospatial Technologies:** `GIS` `QGIS` `ArcMap`
+**Geospatial Technologies:** `GIS` `QGIS` `ArcMap` `Remote Sensing`
 
 **Others:** `Git` `HTML` `Django` `Flask`
 
