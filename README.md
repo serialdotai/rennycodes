@@ -11,7 +11,7 @@ I'm a data scientist based in Africa and I'm passionate about building stuff and
 ## 📦 **Toolbox**
 **Programming Languages:** `Python`  
 
-**Data Analysis and Manipulation:** `Pandas` `Numpy`  
+**Data Analysis and Manipulation:** `Pandas` `Numpy` `Scipy`
 
 **Machine Learning and Data Science:** `Scikit-learn` `TensorFlow` `Seaborn` `OpenCV`
 
