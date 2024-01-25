@@ -29,4 +29,4 @@ I'm a data scientist based in Africa and I'm passionate about building stuff and
 + I love learning new things.
 
 ## 📫Contact
-For a quick response, DM me on [Instagram](http://www.instagram.com/rennycodes) or [X](http:..www.twitter.com/rennycodes)
+For a quick response, DM me on [Instagram](http://www.instagram.com/rennycodes) or [X](http:..www.twitter.com/rennycodes).
