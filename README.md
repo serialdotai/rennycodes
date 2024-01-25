@@ -9,7 +9,7 @@ I'm a data scientist based in Africa and I'm passionate about building stuff and
 + Currently a student, combining academic pursuits with a passion for programming and technology.
 
 ## 📦 **Toolbox**
-**Programming Languages:** `Python`  
+**Programming Languages:** `Python` `C++`
 
 **Data Analysis and Manipulation:** `Pandas` `Numpy` `Scipy`
 
