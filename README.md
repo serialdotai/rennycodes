@@ -25,8 +25,8 @@ I'm a data scientist based in Africa and I'm passionate about building stuff and
 
 ## ✨Fun Facts
 + I've always loved computers, machines and space since I was little
-+ I love maths.
-+ I believe I can fly.
++ I love maths, making something so complex become easy is satisfying.
++ I love learning new things.
 
 ## 📫Contact
 For a quick response, DM me on [Instagram](http://www.instagram.com/rennycodes) or [X](http:..www.twitter.com/rennycodes).
