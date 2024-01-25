@@ -21,7 +21,7 @@ I'm a data scientist based in Africa and I'm passionate about building stuff and
 
 **Geospatial Technologies:** `GIS` `QGIS` `ArcMap` `Remote Sensing`
 
-**Others:** `Git` `HTML` `Django` `Flask`
+**Others:** `Git` `HTML` `Django`
 
 ## ✨Fun Facts
 + Bleach is my favourite anime.
