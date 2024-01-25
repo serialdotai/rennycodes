@@ -15,7 +15,7 @@ I'm a data scientist based in Africa and I'm passionate about building stuff and
 
 **Machine Learning and Data Science:** `Scikit-learn` `TensorFlow` `Seaborn` `OpenCV`
 
-**Data Visualization:** `Matplotlib` `PowerBI`
+**Data Visualization:** `Matplotlib` `PowerBI` `Excel`
 
 **Databases:** `SQL`
 
