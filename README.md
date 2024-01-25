@@ -24,7 +24,7 @@ I'm a data scientist based in Africa and I'm passionate about building stuff and
 **Others:** `Git` `HTML` `Django`
 
 ## ✨Fun Facts
-+ Bleach is my favourite anime.
++ I've always loved computers, machines and space since I was little
 + I love maths.
 + I believe I can fly.
 
