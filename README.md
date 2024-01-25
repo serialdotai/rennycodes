@@ -25,7 +25,7 @@ I'm a data scientist based in Africa and I'm passionate about building stuff and
 
 ## ✨Fun Facts
 + I've always loved computers, machines and space since I was little
-+ I love maths, making something so complex become easy is satisfying.
++ I love math; making something so complex become easy is satisfying.
 + I love learning new things.
 
 ## 📫Contact
