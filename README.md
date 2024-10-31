@@ -9,9 +9,9 @@ I'm a data scientist based in Africa and I'm passionate about building stuff and
 + Currently a student, combining academic pursuits with a passion for programming and technology.
 
 ## 📦 **Toolbox**
-**Programming Languages:** `Python` `C++`
+**Programming Languages:** `Python` `JavaScript`
 
-**Data Analysis and Manipulation:** `Pandas` `Numpy` `Scipy`
+**Data Analysis and Manipulation:** `Pandas` `Numpy` `Scipy` `leaflet`
 
 **Machine Learning and Data Science:** `Scikit-learn` `TensorFlow` `Seaborn` `OpenCV`
 
@@ -29,4 +29,4 @@ I'm a data scientist based in Africa and I'm passionate about building stuff and
 + I love learning new things.
 
 ## 📫Contact
-For a quick response, DM me on [Instagram](http://www.instagram.com/rennycodes) or [X](http:..www.twitter.com/rennycodes).
+For a quick response, DM me on [Instagram](http://www.instagram.com/rennywontmiss) or [X](http:..www.twitter.com/rennywontmiss).
